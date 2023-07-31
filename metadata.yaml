@@ -1,5 +1,8 @@
 _repo: Kamertjeszonde-b-Herinneringen-van-Alfred-Spier_71207
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71207-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Heijermans, Herman
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Herman_Heijermans
     - https://nl.wikipedia.org/wiki/Herman_Heijermans
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71207#Kamertjeszonde-b-Herinneringen-van-Alfred-Spier
 gutenberg_issued: '2023-07-16'
 identifiers:
   gutenberg: '71207'
